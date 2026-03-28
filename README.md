@@ -78,8 +78,10 @@ Foi utilizado um endereço IP fixo para o Arduino dentro da rede local.
 
 ## 6. Imagens da execução no laboratório
 
-
-
+![](Montagem.jpg)
+![](Montagem2.jpg)
+![](Montagem3.jpg)
+![](Funcionamento.jpg)
 ---
 ## 7. Conclusão
 
